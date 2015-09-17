@@ -1,0 +1,7 @@
+---
+galaxy_info:
+  author: Antonio Manuel Hernández Sánchez
+  description: Generate locales from a variables file listing all the locales to generate
+  license: MIT
+  min_ansible_version: 1.2
+dependencies: []
